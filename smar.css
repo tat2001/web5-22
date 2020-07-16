@@ -194,11 +194,11 @@
         position: relative;left: 30px;
         margin-bottom: 100px;
         z-index: 1;
-        
+        box-shadow:10px 10px rgba(0, 0, 0, 0.4);
     }
     .vis1{
         position: relative;bottom: 1710px;left: 10px;
-        
+        box-shadow:10px 10px rgba(0, 0, 0, 0.4);
     }
     .vart1{
         position: relative;bottom: 1900px;left: 45px;
@@ -207,7 +207,7 @@
     }
     .vis2{
         position: relative;bottom: 1160px;left: 19px;
-       
+        box-shadow:10px 10px rgba(0, 0, 0, 0.4);
     }
     .vart2{
         position: relative;bottom:1500px ;left: 45px;
@@ -216,12 +216,13 @@
     }
     .vis3{
       display: none;
+      
      
     }
     .vis4{
         width: 200px;
         position: relative;bottom: 940px;left: 30px;
-      
+        box-shadow:10px 10px rgba(0, 0, 0, 0.4);
     }
     .vart3{
         position: relative;bottom: 1000px;left: 45px;

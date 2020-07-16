@@ -189,6 +189,7 @@
       position: relative;left: 130px;
       z-index: 2;
       width: 500px;
+      box-shadow:10px 10px rgba(0, 0, 0, 0.4);
   }
   .content3{
       background-color: whitesmoke;
@@ -201,6 +202,7 @@
   .vis1{
       position: relative;bottom: 2930px;left: 80px;
       z-index: 1;
+      box-shadow:10px 10px rgba(0, 0, 0, 0.4);
   }
   .vart1{
       z-index: 3;
@@ -210,6 +212,7 @@
   .vis2{
       position: relative;bottom: 1800px;right: 10px;
       width: 160px;
+      box-shadow:10px 10px rgba(0, 0, 0, 0.4);
   }
   .vart2{
       z-index: 3;
@@ -218,6 +221,7 @@
   }
   .vis3{
       position: relative;right: 300px;bottom: 1100px;
+      box-shadow:10px 10px rgba(0, 0, 0, 0.4);
   }
   .vart3{
       font-size: 30px;
